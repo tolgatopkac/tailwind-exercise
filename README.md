@@ -1,4 +1,4 @@
-# Tailwind Exercise with mini project
+# Mini Project with Tailwind
 
 | Folder Name      |                                  Preview                                  |
 | ---------------- | :-----------------------------------------------------------------------: |
